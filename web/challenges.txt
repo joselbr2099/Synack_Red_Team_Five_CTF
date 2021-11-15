@@ -1,0 +1,17 @@
+SimPlay
+The agency has picked up on a addictive mobile application that predicts when someone will find love. We suspect foul play by the evil company behind this obvious scheme. We think that they will try to have this application installed on every device in the world, in order to mind control it's users. Agent, we need you to infiltrate the recent website they launched and save the world.
+
+Potent Quotes
+We think our agency's login panel application might be vulnerable. Agent, could you assess the security of the website, and help us prevent malicious actors from gaining access to our confidential information?
+
+BoneChewerCon
+We need to infiltrate the BoneChewerCon event to understand what the devil has been up to. Can you find the key to bring this event down once and for all?
+
+IMF - Landing
+The home page for the Impossible Mission Force Agency was created by a newly-hired intern. Can you check it out and make sure it's secure?
+
+IMF - The Search
+The Impossible Mission Force agency has set up a new website that allows users to search for available field agents. Go and check it out!
+
+Userland City
+You are part of a multinational law enforcement operation called "Takeover" that targets underground darknet markets, the new target is a referral only market called Userland City. After a string of ops intercepting traffic in TOR exit nodes, we managed to obtain a verified vendor's account that goes by the name of lxkid. We're ready for stage "Downfall", Europol has provided us with key software components to capture cleartext credentials from all marketplace users, spyware to deliver through key accounts operating with downloadable deliveries, and help us remove the existing image database including the metadata removal tool. Old IRC logs from one of those devs suggest that the marketplace is built on top of the latest Laravel version and debug mode is enabled. The credentials of the vendor’s account are lxkid02:8rsNN9ohfLp69cVRFEgk4Qzs

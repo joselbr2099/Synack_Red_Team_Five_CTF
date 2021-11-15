@@ -1,0 +1,13 @@
+spy
+Damn, we cant crack the enemy's morning report! The enemy found out that their cryptographic protocols are compromised and doubled the encryption. Can you crack their new encryption scheme?
+
+leakeyd
+We managed to capture one of the enemy spies and get their keypair! It seems that each spy uses a different exponent though, can you still read their messages?
+
+
+suspicious signing
+Our agents have gained access to a signing server that the enemy spies used to sign their messages. I wonder if you can use it to decrypt the secret information?
+
+
+Weak RSA
+A rogue employe managed to steal a file from his work computer, he encrypted the file with RSA before he got apprehended. We only managed to recover the public key, can you help us decrypt this ciphertext?

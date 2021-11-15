@@ -1,0 +1,8 @@
+Blobber
+IMF is testing a new way to obfuscate the transmission of top secret documents over the web without using explicit links, in order to avoid detection by web crawlers. Can you confirm transmission is working as expected?
+
+ConText
+A strange piece of code was intercepted by the IMF team during an assessment of a compromised machine. The code was identified as Javascript and is believed to contain a secret message. Can you help us retrieve it?
+
+Hotel
+Agent, in this hotel you are safe from everyone. You can spend or deposit your coins here. There are also some privileged areas that you can access only with a special secret pass phrase. Take a rest here before you continue your missions.

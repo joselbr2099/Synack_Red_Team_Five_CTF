@@ -1,0 +1,11 @@
+Sneaky
+Agent-50 delivered a network capture from a nearby enemy base. Can you find out the password that the enemy lieutenant used to sign in? Flag format: HTB{password}
+
+Top Secret
+One of our internal servers containing our top secret documents got compromised. Locate the file that was stolen and calculate the md5sum. Flag format: HTB{md5sum(file)}
+
+EnduranceRun
+A bunch of phishing emails have been giving us a run and slipping past our defenses lately, and now the CEO says his machine is acting weird. We told him to just reboot, but he says that isn't fixing it. Here's a copy of the NTUSER.dat file from his machine. Take a look and see what you can find.
+
+PhishinImpossible
+The team at the IMF SOC caught a wave of malicious emails coming in trying to phish our leadership. It seems like they are trying tricks in PDFs straight out of 2018. It seems like most of the users have updated PDF readers, so the document didn't execute. We're cleaning up the computers of people who did open the doc. All that's left is to dig into the attachment and find what it was trying to do. Take a look, and see if you can find the flag.
