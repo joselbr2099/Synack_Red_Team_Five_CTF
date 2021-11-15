@@ -12,4 +12,4 @@ they are:
 
 writeUps:
 web
-  [simplay](https://reset2099.com/ctfs/synackrt/simplay/)
+*  [simplay](https://reset2099.com/ctfs/synackrt/simplay/)
